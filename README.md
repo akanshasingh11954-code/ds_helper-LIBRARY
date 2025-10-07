@@ -6,6 +6,7 @@ Features
 Column Type Detection: Automatically identifies numerical, categorical, and text columns.
 Auto Visualization: Generates appropriate plots for each column type.
 Text Cleaning: A utility to remove punctuation, stopwords, and filler words.
+
 Usage Example
 import pandas as pd
 from ds_helper import clean_text
